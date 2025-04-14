@@ -20,8 +20,15 @@
 
 ### Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining
 
+
 - Paper: https://arxiv.org/abs/2404.01547
 - Code: https://github.com/cschenxiang/NeRD-Rain
+
+### Removing Raindrops and Rain Streaks in One Go
+
+- Paper: [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/html/Quan_Removing_Raindrops_and_Rain_Streaks_in_One_Go_CVPR_2021_paper.html)
+- Code: [https://github.com/Songforrr/RainDS_CCN](https://github.com/Songforrr/RainDS_CCN)
+
 
 <a name="2.图像去雨滴"></a>
 
