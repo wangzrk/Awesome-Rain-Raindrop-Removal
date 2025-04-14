@@ -10,23 +10,7 @@ A Collection of Papers and Codes for CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 
 **参考或转载请注明出处**
 
-# Awesome-CVPR2025-Low-Level-Vision
-- [Awesome-CVPR2025-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2025.md)
-# Awesome-CVPR2024-Low-Level-Vision
-- [Awesome-CVPR2024-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2024.md)
-# Awesome-CVPR2023-Low-Level-Vision
-- [Awesome-CVPR2023-Low-Level-Vision](https://github.com/DarrenPan/Awesome-CVPR2024-Low-Level-Vision/blob/main/CVPR2023-Low-Level-Vision.md)
-# Awesome-CVPR2022-Low-Level-Vision
-- [Awesome-CVPR2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-CVPR2024-Low-Level-Vision/blob/main/CVPR2022-Low-Level-Vision.md)
-# Awesome-CVPR2021-Low-Level-Vision
-- [Awesome-CVPR2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2020-Low-Level-Vision/blob/master/CVPR2021.md)
-# Awesome-CVPR2020-Low-Level-Vision
-- [Awesome-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2020-Low-Level-Vision/blob/master/CVPR2020.md)
-
-
-# Related Collections(相关整理)
-- [Awesome-ECCV2024/ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision)
-- [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
-- [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
-- [Awesome-AIGC-Research-Groups](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups)
-- [Awesome-CVPR2024-ECCV2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-ECCV2024-AIGC)
+# Awesome-Deraining/Rain removal
+- [Awesome-Deraining/Rain removal](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2025.md)
+# Awesome-Raindrop removal
+- [Awesome-Raindrop removal](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2024.md)
