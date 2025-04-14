@@ -1,4 +1,4 @@
-# Awesome-CVPR2025/CVPR2024/CVPR2021/CVPR2020-Low-Level-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Deraining/Raindrop removal
 
 A Collection of Papers and Codes for Deraining/Raindrop removal
 
@@ -10,7 +10,7 @@ A Collection of Papers and Codes for Deraining/Raindrop removal
 
 **参考或转载请注明出处**
 
-# Awesome-Deraining/Rain removal
+# Awesome-Deraining/Raindrop removal
 - [Awesome-Deraining/Rain removal](https://github.com/wangzrk/Awesome-Rain-Raindrop-Removal/blob/master/Deraining.md)
 
 
