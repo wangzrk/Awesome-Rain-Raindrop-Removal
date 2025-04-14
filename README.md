@@ -15,4 +15,4 @@ A Collection of Papers and Codes for Deraining/Raindrop removal
 # Awesome-Raindrop removal
 - [Awesome-Raindrop removal](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2024.md)
 
-**fork from https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision.git**
+**This template is forked from https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision.git**
