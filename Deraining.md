@@ -88,6 +88,48 @@
 
 
 
+### Depth-Attentional Features for Single-Image Rain Removal and RainCityscapes Dataset (CVPR 2019)
+
+- Dataset Name: Outdoor-Rain
+- Scale: 10,500 pairs
+- Rain Category: rain streak
+- Resolution: 
+- Paper: [Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning](https://arxiv.org/abs/1904.05050)
+- Code: [https://github.com/liruoteng/HeavyRainRemoval](https://github.com/liruoteng/HeavyRainRemoval)
+- 备注：考虑了深度信息，有积雨效应，整体合成的雨很大
+
+
+
+### Depth-Attentional Features for Single-Image Rain Removal and RainCityscapes Dataset (CVPR 2020)
+
+- Dataset Name: Outdoor-Rain
+- Scale: 10,500 pairs
+- Rain Category: rain streak
+- Resolution: 
+- Paper: [Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning](https://arxiv.org/abs/1904.05050)
+- Code: [https://github.com/liruoteng/HeavyRainRemoval](https://github.com/liruoteng/HeavyRainRemoval)
+- 备注：考虑了深度信息，有积雨效应，整体合成的雨很大
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
