@@ -100,37 +100,6 @@
 
 
 
-### Depth-Attentional Features for Single-Image Rain Removal and RainCityscapes Dataset (CVPR 2020)
-
-- Dataset Name: Outdoor-Rain
-- Scale: 10,500 pairs
-- Rain Category: rain streak
-- Resolution: 
-- Paper: [Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning](https://arxiv.org/abs/1904.05050)
-- Code: [https://github.com/liruoteng/HeavyRainRemoval](https://github.com/liruoteng/HeavyRainRemoval)
-- 备注：考虑了深度信息，有积雨效应，整体合成的雨很大
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Removing Raindrops and Rain Streaks in One Go (CVPR 2021)
@@ -141,6 +110,18 @@
 - Resolution: 1296*728
 - Paper: [Removing Raindrops and Rain Streaks in One Go](https://ieeexplore.ieee.org/document/8099666)
 - Code: [https://github.com/Songforrr/RainDS_CCN](https://github.com/Songforrr/RainDS_CCN)
+
+
+
+### Towards Ultra-High-Definition Image Deraining: A Benchmark and An Efficient Method
+
+- Dataset Name: RainDS
+- Scale: 13000 pairs
+- Rain Category: rain streak & raindrop
+- Resolution: 3840*2160
+- Paper: [Towards Ultra-High-Definition Image Deraining: A Benchmark and An Efficient Method](https://openreview.net/forum?id=HZz81oCNlp)
+- Code: [https://github.com/cschenxiang/UDR-Mixer](https://github.com/cschenxiang/UDR-Mixer)
+- 备注: 4K resolution 
 
 
 
